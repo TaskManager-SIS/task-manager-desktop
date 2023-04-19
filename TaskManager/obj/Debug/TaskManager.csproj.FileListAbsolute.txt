@@ -1,0 +1,54 @@
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmTarefas.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.FrmMenu.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmAddTarefa.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmAttUsuario.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmAddTarefa.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmAttUsuario.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmTarefas.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.FrmMenu.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Buffers.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Memory.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Text.Json.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.ValueTuple.dll
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Buffers.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Memory.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Text.Json.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\bin\Debug\System.ValueTuple.xml
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmLogin.resources
+C:\Users\thiag\OneDrive\Documentos\_programacao\_Faculdade Toledo\Qualidade\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmCadUsuario.resources
